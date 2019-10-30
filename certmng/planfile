@@ -1,0 +1,4 @@
+post request to add domains to database
+cron job that looks for rows in database and does stuff
+
+nginx that does reverse-proxy to either url or something or to other application hosts that responsee likely from a cache
